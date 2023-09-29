@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Carlos 👨‍💻
 
+Young data analyst who is discovering this exciting world.
+
+Here I will upload some small projects, which I will develop while I improve my skills in data science and analytics.
+
+### If you want to stay in touch, I invite you to connect with me!
+<a href="https://www.linkedin.com/in/carlos-martin-rengel/" target="_blank" rel="nofollow">
+    <img src="https://user-images.githubusercontent.com/64377961/171752276-9ee0d0b7-e6b9-4790-9b66-a51cff145566.png" alt="LinkedIn" width="30px" height="30px" />
 <!--
 **CarlosMartinRengel/CarlosMartinRengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
