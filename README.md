@@ -6,6 +6,9 @@ Here I will upload some small projects, which I will develop while I improve my 
 
 ### If you want to stay in touch, I invite you to connect with me!
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmartinrengel@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-martin-rengel/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/carlosmartinrengel)
+
+
 <!--
 **CarlosMartinRengel/CarlosMartinRengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
