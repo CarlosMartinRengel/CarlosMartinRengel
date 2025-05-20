@@ -6,6 +6,8 @@
 
 
 <!--
+<a href="https://github.com/CarlosMartinRengel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMartinRengel&layout=compact&theme=buefy&hide_border=true" /></a>  - Lenguajes mas usados
+
 **CarlosMartinRengel/CarlosMartinRengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/carlosmartinrengel)
 Here are some ideas to get you started:
