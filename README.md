@@ -45,7 +45,7 @@ solutions, bringing a multidisciplinary view to engineering products.
 
 - 🔬 Delivered new features for **Infinicyt**, a CE-IVD flow cytometry analysis software (Java + Swing), with an automated E2E test suite at 100% reliability in a regulated clinical environment.
 - 🌿 [**BotaniQ**](https://github.com/CarlosMartinRengel/BotaniQ) — native Android app (Kotlin, Jetpack Compose, TensorFlow Lite) that identifies plant species offline in real time.
-- 📚 [**VocabReminderBot**]() — Telegram bot with spaced repetition (Java 17, Spring Boot, microservices with Docker Compose).
+- 📚 [**VocabReminderBot**](https://github.com/CarlosMartinRengel/VocabReminderBot) — Telegram bot with spaced repetition (Java 17, Spring Boot, microservices with Docker Compose).
 
 ---
 
